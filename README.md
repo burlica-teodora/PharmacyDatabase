@@ -1,22 +1,6 @@
 # PharmacyDatabase
 
-Database project that proves SQL capabilities.
+Created a Database destined for a pharmacy using SQL, inserted data and implemented some demonstrative queries.
 
+Its design helps in keeping track of elements such as pharmacists, customers, products, providers, and others.
 
-Creation of a relational database that has industrial application and contains:
-
-- 10 relational tables
-
-- 10 DB queries
-
-- relevant altering usecases for tables:
-
-  - change the type of a column for a table,
-  - add/ remove primary-key constraint,
-  - add new field for a table,
-  - undo operations for every script
-  
-- performance testing:
-    generic test that runs on 3 tables, 3 table views
-    
-- SQL Functions that perform CRUD operations.
